@@ -5,9 +5,9 @@
 <h1 align="center">Pac22 Browser</h1>
 
 # 🤖 Browser ( PySide6 + Qt Engine )
+
+##Instalação de dependências
 <p>
-<b>Instalação de dependências</b>
-<br>
 <b>| Recomendado uso do Python3 |</b>
 </p>
 
