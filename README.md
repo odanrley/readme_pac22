@@ -83,7 +83,6 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 - <b>Telas de Registro:</b>
 <div align="center"><img src="./register.png" alt="Pacman register"></div>
-<div align="center"><img src="./loading.png" alt="Pacman loading"></div>
 <div align="center"><img src="./start.png" alt="Pacman start"></div>
 
 <br>
