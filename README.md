@@ -2,9 +2,9 @@
   <img src="./pac22.png" width="213" height="213" alt="Pacman App">
 </div>
 
-<h1 align="center"></h1>
+<h1 align="center">Pac22 Browser</h1>
 
-# Pac22 Browser ( PySide6 + Qt Engine )
+# Baseado em ( PySide6 + Qt Engine )
 
 ## Instalação de dependências
 <p>
@@ -79,12 +79,14 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 <br>
 
-## 🤖 Novo usuário:
+## Novo usuário:
 
 - <b>Telas de Registro:</b>
 <div align="center"><img src="./register.png" alt="Pacman Register"></div>
 <div align="center"><img src="./loading.png" alt="Pacman Register"></div>
 <div align="center"><img src="./start.png" alt="Pacman Register"></div>
+
+## Browser:
 
 ```bash
 #  We ship every day - use the latest version!
