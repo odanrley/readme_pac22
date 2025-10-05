@@ -6,7 +6,9 @@
 
 # 🤖 Browser New User
 
-With uv (Python>=3.11):
+Primeira tela ao abrir o app:
+
+<img src="./register.png" alt="Pacman Register">
 
 ```bash
 #  We ship every day - use the latest version!
