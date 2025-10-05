@@ -6,7 +6,7 @@
 
 # 🤖 Browser ( PySide6 + Qt Engine )
 
-##Instalação de dependências
+## Instalação de dependências
 <p>
 <b>| Recomendado uso do Python3 |</b>
 </p>
