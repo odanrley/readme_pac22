@@ -5,14 +5,6 @@
 <h1 align="center">Pac22 Browser</h1>
 
 <!--[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](...)-->
-<div align="center"> <a href="https://x.com/intent/user?screen_name=danrleyof">
-    <img src="https://img.shields.io/twitter/follow/Danrley?style=social" alt="Follow Danrley" />
-  </a></div>
-<div align="center"> <a href="https://x.com/intent/user?screen_name=fra_daniell">
-    <img src="https://img.shields.io/twitter/follow/Daniel?style=social" alt="Follow Daniel" />
-  </a></div>
-
-
 
 <!-- Keep these links. Translations will automatically update with the README. -->
 [Deutsch](https://www.readme-i18n.com/browser-use/browser-use?lang=de) |
