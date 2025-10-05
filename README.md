@@ -9,12 +9,10 @@
 
 <!--[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](...)-->
 <p align="center">
-  <a href="https://x.com/intent/user?screen_name=danrleyof">
-    <img src="https://img.shields.io/twitter/follow/Danrley?style=social" alt="Follow Danrley">
-  </a>
-  <a href="https://x.com/intent/user?screen_name=fra_daniell">
-    <img src="https://img.shields.io/twitter/follow/Daniel?style=social" alt="Follow Daniel">
-  </a>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Danrley?style=social)](https://x.com/intent/user?screen_name=danrleyof)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Daniel?style=social)](https://x.com/intent/user?screen_name=fra_daniell)
+
 </p>
 
 
