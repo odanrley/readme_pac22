@@ -83,15 +83,13 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 <p>
   
-- **Pasta de Usuário:**
-<br>
+**Pasta de Usuário:**
 
 Os dados do usuário são salvos em uma pasta específica que será criada na raiz do seu sistema:
 `.pac22_user`
 <br>
 
-- **Observação:**
-<br>
+**Observação:**
 
 Essa pasta armazena configurações e arquivos do usuário. Ela é criada automaticamente na primeira execução do aplicativo e não afeta outros diretórios do sistema.
 <br>
