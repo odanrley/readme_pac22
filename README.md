@@ -8,7 +8,7 @@
 <p>
 <b>Instalação de dependências</b>
 <br>
-<b>| Recomendada Python3 |</b>
+<b>| Recomendado uso do Python3 |</b>
 </p>
 
 
