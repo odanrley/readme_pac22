@@ -13,9 +13,10 @@
     <img src="https://img.shields.io/twitter/follow/Danrley?style=social" alt="Follow Danrley" />
   </a></div>
   &nbsp;&nbsp;
+  <div align="center">
   <a href="https://x.com/intent/user?screen_name=fra_daniell">
     <img src="https://img.shields.io/twitter/follow/Daniel?style=social" alt="Follow Daniel" />
-  </a>
+  </a></div>
 
 
 
