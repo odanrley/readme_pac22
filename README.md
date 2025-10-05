@@ -86,6 +86,8 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 <div align="center"><img src="./loading.png" alt="Pacman loading"></div>
 <div align="center"><img src="./start.png" alt="Pacman start"></div>
 
+<br>
+
 ## Browser:
 
 <div align="center"><img src="./browser.jpg" alt="Pacman browserr"></div>
