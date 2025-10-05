@@ -134,7 +134,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101
 
 <div align="center">
   
-**Diga ao seu computador o que fazer e ele fará isso.**
+**Não compartilhe suas informações pessoais com empresas.**
 
 <img src="https://www.hardware.com.br/wp-content/uploads/2025/05/chrome.jpg " width="400"/>
 
