@@ -81,23 +81,21 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 ## Novo usuário:
 
-- <b>Telas de Registro:</b>
-
-<br>
-
 <p>
   
 **Pasta de Usuário:**
 <br>
 
-Os dados do usuário são salvos em uma pasta específica que será criada na raiz do seu sistema:<br>
+Os dados do usuário são salvos em uma pasta específica que será criada na raiz do seu sistema:
 `.pac22_user`
-</p>
 <br>
+
 **Observação:**
 <br>
+
 Essa pasta armazena configurações e arquivos do usuário. Ela é criada automaticamente na primeira execução do aplicativo e não afeta outros diretórios do sistema.
 <br>
+
 <div align="center"><img src="./register.png" alt="Pacman register"></div>
 <div align="center"><img src="./start.png" alt="Pacman start"></div>
 
