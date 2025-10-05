@@ -14,6 +14,10 @@
 
 - <b>Arch / Manjaro</b>
 
+git clone
+```bash
+git clone https://github.com/danrleyof/pac22-browser.git
+```
 
 Instala pacotes do sistema
 ```bash
@@ -38,6 +42,11 @@ python3 app.py
 <br>
 
 - <b>Debian / Ubuntu</b>
+
+git clone
+```bash
+git clone https://github.com/danrleyof/pac22-browser.git
+```
 
 Instala pacotes do sistema
 ```bash
