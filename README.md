@@ -79,7 +79,7 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 <br>
 
-## Novo usuário:
+## Novo usuário
 
 <p>
   
@@ -99,7 +99,7 @@ Essa pasta armazena configurações e arquivos do usuário. Ela é criada automa
 
 <br>
 
-## Browser:
+## Browser
 
 <div align="center"><img src="./browser.jpg" alt="Pacman browserr"></div>
 
