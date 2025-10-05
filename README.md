@@ -10,7 +10,7 @@
 
 
 
-- Arch ( pacman )
+- Arch
 <b>| Python3 é obrigatório! |<b>
 
 Instala pacotes do sistema
@@ -33,6 +33,37 @@ Roda o browser
 ```bash
 python3 app.py
 ```
+
+- Debian / Ubuntu
+<b>| Python3 é obrigatório! |<b>
+
+Instala pacotes do sistema
+```bash
+sudo apt install python3-pip python3-venv qt6-base-dev qt6-webengine-dev libqt6webengine6
+```
+
+Cria e ativa virtualenv
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Instala dependências Python
+```bash
+pip install PySide6 tldextract
+```
+
+Roda o browser
+```bash
+python3 app.py
+```
+
+- Windows ⚠️
+
+Atualmente, o projeto é compatível com o Windows.
+No entanto, pode haver lentidão durante o uso, pois não há implementação de drivers específicos para o sistema, sendo que o processamento é realizado diretamente pelo CPU.
+
+❗ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempenho no Windows.
 
 <div align="center"><img src="./register.png" alt="Pacman Register"></div>
 
