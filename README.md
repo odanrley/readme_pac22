@@ -37,7 +37,7 @@ python3 app.py
 ```
 <br>
 
--<b> Debian / Ubuntu</b>
+- <b>Debian / Ubuntu</b>
 
 Instala pacotes do sistema
 ```bash
@@ -61,7 +61,7 @@ python3 app.py
 ```
 <br>
 
-<b>- Windows ⚠️</b>
+- <b>Windows ⚠️</b>
 
 <div align="center">Atualmente, o projeto é compatível com o Windows.
 No entanto, pode haver lentidão durante o uso, pois não há implementação de drivers específicos para o sistema, sendo que o processamento é realizado diretamente pelo CPU.
