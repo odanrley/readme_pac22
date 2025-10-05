@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="./pacmanapp.png" width="150" height="150" alt="Pacman App">
+  <img src="./pacmanapp.png" width="160" height="160" alt="Pacman App">
 </div>
 
-<h1 align="center">Enable AI to control your browser</h1>
+<h1 align="center">Pac22 Browser</h1>
 
 [![Docs](https://img.shields.io/badge/Docs-📕-blue?style=for-the-badge)](https://docs.browser-use.com)
 [![Browser-use cloud](https://img.shields.io/badge/Browser_Use_Cloud-☁️-blue?style=for-the-badge&logo=rocket&logoColor=white)](https://cloud.browser-use.com)
