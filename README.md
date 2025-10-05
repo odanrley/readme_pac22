@@ -106,11 +106,12 @@ Ele ajuda o site a adaptar o conteúdo para o seu navegador ou dispositivo, como
 **Importante:** isso não engana o site de verdade. O sistema operacional real do seu computador `ainda será detectado` pelos sites que precisarem dessa informação para rodar funções críticas.
 Ou seja, o `User Agent` muda apenas a `superfície`, mas não altera o funcionamento interno do seu `OS`.
 
+No `App.py` você pode alterar o `User Agent (UA)` padrão. 
+Line 20:
 </div>
 
 ```bash
-#  We ship every day - use the latest version!
-uv pip install browser-use
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 (KHTML, like Gecko) Firefox/131.0 Windows 10"
 ```
 
 Download chromium using playwright's shortcut:
