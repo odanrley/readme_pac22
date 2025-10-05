@@ -12,8 +12,8 @@
 </p>
 
 
-- <b>Arch
-</b>
+- <b>Arch / Manjaro</b>
+
 
 Instala pacotes do sistema
 ```bash
@@ -37,7 +37,7 @@ python3 app.py
 ```
 <br>
 
-<b>- Debian / Ubuntu</b>
+-<b> Debian / Ubuntu</b>
 
 Instala pacotes do sistema
 ```bash
