@@ -5,12 +5,13 @@
 <h1 align="center">Pac22 Browser</h1>
 
 # 🤖 Browser New User
-
+<p>
 <b>Instalação de dependências</b>
-<p></p>
+&nbsp;
 <b>| Python3 é obrigatório! |</b>
+</p>
 
-</b>
+
 - Arch 
 
 
