@@ -66,7 +66,7 @@ python3 app.py
 Atualmente, o projeto é compatível com o Windows.
 No entanto, pode haver lentidão durante o uso, pois não há implementação de drivers específicos para o sistema, sendo que o processamento é realizado diretamente pelo CPU.
 <br>
-⚠️ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempenho no Windows.
+Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempenho no Windows.
 
 <div align="center"><img src="./register.png" alt="Pacman Register"></div>
 
