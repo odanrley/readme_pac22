@@ -12,7 +12,7 @@
 </p>
 
 
-<b>- Arch </b>
+- Arch
 
 Instala pacotes do sistema
 ```bash
