@@ -82,11 +82,17 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 ## Novo usuário:
 
 - <b>Telas de Registro:</b>
+
 <br>
+
+<p>
+  
 **Pasta de Usuário:**
 <br>
+
 Os dados do usuário são salvos em uma pasta específica que será criada na raiz do seu sistema:<br>
 `.pac22_user`
+</p>
 <br>
 **Observação:**
 <br>
