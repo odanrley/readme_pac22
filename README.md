@@ -1,7 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./pacmanapp.png">
   <img src="./pacmanapp.png" width="50" height="50" alt="Pacman App">
-  <source media="(prefers-color-scheme: light)" srcset="./static/browser-use.png">
   <img alt="Shows a black Browser Use Logo in light color mode and a white one in dark color mode." src="./static/browser-use.png"  width="full">
 </picture>
 
