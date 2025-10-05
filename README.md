@@ -4,8 +4,6 @@
 
 <h1 align="center">Pac22 Browser</h1>
 
-![GitHub Repo Views](https://komarev.com/ghpvc/?username=danrleyof&repo=https://github.com/danrleyof/pac22-browser&style=flat-square)
-
 # 🤖 Browser New User
 
 <div align="center"><p><b>Telas de início ao abrir o app:</b></p></div>
