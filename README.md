@@ -4,7 +4,7 @@
 
 <h1 align="center">Pac22 Browser</h1>
 
-![Contributors](https://img.shields.io/github/contributors/danrleyof/SEU_REPO?style=flat-square)
+![GitHub Repo Views](https://komarev.com/ghpvc/?username=danrleyof&repo=https://github.com/danrleyof/pac22-browser&style=flat-square)
 
 # 🤖 Browser New User
 
