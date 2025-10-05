@@ -106,7 +106,7 @@ Ele ajuda o site a adaptar o conteúdo para o seu navegador ou dispositivo, como
 **Importante:** isso não engana o site de verdade. O sistema operacional real do seu computador `ainda será detectado` pelos sites que precisarem dessa informação para rodar funções críticas.
 Ou seja, o `User Agent` muda apenas a `superfície`, mas não altera o funcionamento interno do seu `OS`.
 
-No `App.py` você pode alterar o `User Agent (UA)` padrão. 
+No `App.py` você pode alterar o `User Agent (UA)` padrão. <br>
 Line 20:
 </div>
 
