@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./pac22.png" width="213" height="213" alt="Pacman App">
+  <img src="./imgs/pac22.png" width="213" height="213" alt="Pacman App">
 </div>
 
 <h1 align="center">Pac22 Browser ( Open Source )</h1>
@@ -94,16 +94,16 @@ Os dados do usuário são salvos em uma pasta específica que será criada na ra
 Essa pasta armazena configurações e arquivos do usuário. Ela é criada automaticamente na primeira execução do aplicativo e não afeta outros diretórios do sistema.
 <br>
 
-<div align="center"><img src="./register.png" alt="Pacman register"></div>
-<div align="center"><img src="./start.png" alt="Pacman start"></div>
+<div align="center"><img src="./imgs/register.png" alt="Pacman register"></div>
+<div align="center"><img src="./imgs/start.png" alt="Pacman start"></div>
 
 <br>
 
 ## Browser
 
-<div align="center"><img src="./browser.jpg" alt="Pacman browserr"></div>
+<div align="center"><img src="./imgs/browser.jpg" alt="Pacman browserr"></div>
 
-<img src="./useragent.png" align="left">
+<img src="./imgs/useragent.png" align="left">
 <div align="center">
 
 **User Agent**
@@ -136,7 +136,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101
   
 **Não compartilhe suas informações pessoais com empresas.**
 
-<img src="./nosafezone.png" width="500"/>
+<img src="./imgs/nosafezone.png" width="500"/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Danrley?style=social)](https://x.com/intent/user?screen_name=danrleyof)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Daniel?style=social)](https://x.com/intent/user?screen_name=fra_daniell)
