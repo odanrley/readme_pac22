@@ -8,7 +8,7 @@
 
 Primeira tela ao abrir o app:
 
-<img src="./register.png" alt="Pacman Register">
+<div align="center"><img src="./register.png" alt="Pacman Register"></div>
 
 ```bash
 #  We ship every day - use the latest version!
