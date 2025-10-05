@@ -11,12 +11,12 @@
 <div align="center">
   <a href="https://x.com/intent/user?screen_name=danrleyof">
     <img src="https://img.shields.io/twitter/follow/Danrley?style=social" alt="Follow Danrley" />
-  </a>
+  </a></div>
   &nbsp;&nbsp;
   <a href="https://x.com/intent/user?screen_name=fra_daniell">
     <img src="https://img.shields.io/twitter/follow/Daniel?style=social" alt="Follow Daniel" />
   </a>
-</div>
+
 
 
 <!-- Keep these links. Translations will automatically update with the README. -->
