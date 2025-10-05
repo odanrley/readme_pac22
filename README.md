@@ -124,40 +124,13 @@ Line 20:
 ```bash
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 (KHTML, like Gecko) Firefox/131.0 Windows 10"
 ```
+<br>
 
 ## Suporte a Plataformas Protegidas
 
-Suporte a plataformas protegidas: Sites como `Netflix, Spotify, Disney+` e outros que exigem `autenticação` ou `DRM` ainda não são totalmente suportados, pois o projeto é novo. Essas funcionalidades serão implementadas nas próximas atualizações.
+**Suporte a plataformas protegidas:** Sites como `Netflix, Spotify, Disney+` e outros que exigem `autenticação` ou `DRM` ainda não são totalmente suportados, pois o projeto é novo. Essas funcionalidades serão implementadas nas próximas atualizações.
 
-<br/><br/>
-
-
-[Task](https://github.com/browser-use/browser-use/blob/main/examples/use-cases/find_and_apply_to_jobs.py): Read my CV & find ML jobs, save them to a file, and then start applying for them in new tabs, if you need help, ask me.
-
-https://github.com/user-attachments/assets/171fb4d6-0355-46f2-863e-edb04a828d04
-
-<br/><br/>
-
-See [more examples](https://docs.browser-use.com/examples) and give us a star!
-
-
-<br/><br/>
-## MCP Integration
-
-This gives Claude Desktop access to browser automation tools for web scraping, form filling, and more. See the [MCP docs](https://docs.browser-use.com/customize/mcp-server).
-```json
-{
-  "mcpServers": {
-    "browser-use": {
-      "command": "uvx",
-      "args": ["browser-use[cli]", "--mcp"],
-      "env": {
-        "OPENAI_API_KEY": "sk-..."
-      }
-    }
-  }
-}
-```
+<br/>
 
 <div align="center">
   
