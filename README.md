@@ -35,8 +35,8 @@ Roda o browser
 python3 app.py
 ```
 <br>
-- Debian / Ubuntu
-<b>| Python3 é obrigatório! |<b>
+
+<b>- Debian / Ubuntu</b>
 
 Instala pacotes do sistema
 ```bash
@@ -59,12 +59,13 @@ Roda o browser
 python3 app.py
 ```
 <br>
-- Windows ⚠️
 
-Atualmente, o projeto é compatível com o Windows.
+<b>- Windows ⚠️</b>
+
+<div align="center">Atualmente, o projeto é compatível com o Windows.
 No entanto, pode haver lentidão durante o uso, pois não há implementação de drivers específicos para o sistema, sendo que o processamento é realizado diretamente pelo CPU.
 
-<div align="center">❗ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempenho no Windows.</div>
+❗ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempenho no Windows.</div>
 
 <div align="center"><img src="./register.png" alt="Pacman Register"></div>
 
