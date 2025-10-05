@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./pacmanapp.png" width="160" height="160" alt="Pacman App">
+  <img src="./pacmanapp.png" width="155" height="155" alt="Pacman App">
 </div>
 
 <h1 align="center">Pac22 Browser</h1>
