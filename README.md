@@ -7,11 +7,11 @@
 # 🤖 Browser New User
 
 <b>Instalação de dependências<b>
-
-
-
-- Arch
 <b>| Python3 é obrigatório! |<b>
+
+</b>
+- Arch 
+
 
 Instala pacotes do sistema
 ```bash
