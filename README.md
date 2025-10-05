@@ -82,11 +82,13 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 ## Novo usuário:
 
 - <b>Telas de Registro:</b>
-<div align="center"><img src="./register.png" alt="Pacman Register"></div>
-<div align="center"><img src="./loading.png" alt="Pacman Register"></div>
-<div align="center"><img src="./start.png" alt="Pacman Register"></div>
+<div align="center"><img src="./register.png" alt="Pacman register"></div>
+<div align="center"><img src="./loading.png" alt="Pacman loading"></div>
+<div align="center"><img src="./start.png" alt="Pacman start"></div>
 
 ## Browser:
+
+<div align="center"><img src="./pacmanapp.png" alt="Pacman browserr"></div>
 
 ```bash
 #  We ship every day - use the latest version!
