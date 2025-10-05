@@ -147,7 +147,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101
 Made with ❤️ in Brasil [< >]
  </div>
 <sub><font color="gray">
-Este projeto foi desenvolvido como parte de um trabalho acadêmico de faculdade, tendo como principal objetivo o estudo, aprendizado e experimentação de conceitos de programação.
+>Este projeto foi desenvolvido como parte de um trabalho acadêmico de faculdade, tendo como principal objetivo o estudo, aprendizado e experimentação de conceitos de programação.
 <br>
-O código disponibilizado é Open Source e fornecido exclusivamente para fins educacionais.
+>O código disponibilizado é Open Source e fornecido exclusivamente para fins educacionais.
 </font></sub>
