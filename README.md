@@ -136,7 +136,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101
   
 **Diga ao seu computador o que fazer e ele fará isso.**
 
-<img src="https://www.hardware.com.br/wp-content/uploads/2025/05/chrome.jpg"/>
+<img src="https://www.hardware.com.br/wp-content/uploads/2025/05/chrome.jpg " width="400"/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Magnus?style=social)](https://x.com/intent/user?screen_name=mamagnus00)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Gregor?style=social)](https://x.com/intent/user?screen_name=gregpr07)
