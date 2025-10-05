@@ -14,7 +14,7 @@
 
 - <b>Arch / Manjaro</b>
 
-git clone
+Git clone
 ```bash
 git clone https://github.com/danrleyof/pac22-browser.git
 ```
@@ -43,7 +43,7 @@ python3 app.py
 
 - <b>Debian / Ubuntu</b>
 
-git clone
+Git clone
 ```bash
 git clone https://github.com/danrleyof/pac22-browser.git
 ```
@@ -77,7 +77,14 @@ No entanto, pode haver lentidão durante o uso, pois não há implementação de
 <br>
 Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempenho no Windows.
 
+<br>
+
+# 🤖 Novo usuário:
+
+- <b>Telas de Registro:</b>
 <div align="center"><img src="./register.png" alt="Pacman Register"></div>
+<div align="center"><img src="./loading.png" alt="Pacman Register"></div>
+<div align="center"><img src="./start.png" alt="Pacman Register"></div>
 
 ```bash
 #  We ship every day - use the latest version!
