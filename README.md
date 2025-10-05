@@ -1,5 +1,5 @@
 <picture>
-  <img src="./pacmanapp.png" width="50" height="50" alt="Pacman App">
+  <img src="./pacmanapp.png" width="90" height="90" alt="Pacman App">
   <img alt="Shows a black Browser Use Logo in light color mode and a white one in dark color mode." src="./static/browser-use.png"  width="full">
 </picture>
 
