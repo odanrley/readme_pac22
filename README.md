@@ -92,7 +92,7 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 <div align="center"><img src="./browser.jpg" alt="Pacman browserr"></div>
 
-<img src="./useragent.png" width=300 align="left">
+<img src="./useragent.png" align="left">
 <div align="center">
 
 **User Agent**
