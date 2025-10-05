@@ -4,9 +4,6 @@
 
 <h1 align="center">Pac22 Browser</h1>
 
-[![Docs](https://img.shields.io/badge/Docs-📕-blue?style=for-the-badge)](https://docs.browser-use.com)
-[![Browser-use cloud](https://img.shields.io/badge/Browser_Use_Cloud-☁️-blue?style=for-the-badge&logo=rocket&logoColor=white)](https://cloud.browser-use.com)
-
 <!--[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](...)-->
 <div align="center"> <a href="https://x.com/intent/user?screen_name=danrleyof">
     <img src="https://img.shields.io/twitter/follow/Danrley?style=social" alt="Follow Danrley" />
