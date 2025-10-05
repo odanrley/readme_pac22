@@ -103,7 +103,7 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 O `User Agent (UA)` é uma informação que seu navegador envia para o site, dizendo basicamente qual navegador você está usando, qual versão, e qual `sistema operacional (OS)` você possui.
 Ele ajuda o site a adaptar o conteúdo para o seu navegador ou dispositivo, como mostrar uma versão mobile ou ativar funcionalidades específicas.
 
-`Importante:` isso não engana o site de verdade. O sistema operacional real do seu computador `ainda será detectado` pelos sites que precisarem dessa informação para rodar funções críticas.
+**Importante:** isso não engana o site de verdade. O sistema operacional real do seu computador `ainda será detectado` pelos sites que precisarem dessa informação para rodar funções críticas.
 Ou seja, o `User Agent` muda apenas a `superfície`, mas não altera o funcionamento interno do seu `OS`.
 
 </div>
