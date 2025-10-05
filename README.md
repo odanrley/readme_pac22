@@ -7,7 +7,7 @@
 # 🤖 Browser New User
 <p>
 <b>Instalação de dependências</b>
-&nbsp;
+<br>
 <b>| Python3 é obrigatório! |</b>
 </p>
 
