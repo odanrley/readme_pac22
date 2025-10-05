@@ -4,7 +4,7 @@
 
 <h1 align="center">Pac22 Browser</h1>
 
-# 🤖 Browser New User
+# 🤖 Browser ( PySide6 + Qt Engine )
 <p>
 <b>Instalação de dependências</b>
 <br>
