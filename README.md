@@ -8,12 +8,15 @@
 [![Browser-use cloud](https://img.shields.io/badge/Browser_Use_Cloud-☁️-blue?style=for-the-badge&logo=rocket&logoColor=white)](https://cloud.browser-use.com)
 
 <!--[![Discord](https://img.shields.io/discord/1303749220842340412?color=7289DA&label=Discord&logo=discord&logoColor=white)](...)-->
-<p align="center">
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Danrley?style=social)](https://x.com/intent/user?screen_name=danrleyof)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Daniel?style=social)](https://x.com/intent/user?screen_name=fra_daniell)
-
-</p>
+<div align="center">
+  <a href="https://x.com/intent/user?screen_name=danrleyof">
+    <img src="https://img.shields.io/twitter/follow/Danrley?style=social" alt="Follow Danrley">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/intent/user?screen_name=fra_daniell">
+    <img src="https://img.shields.io/twitter/follow/Daniel?style=social" alt="Follow Daniel">
+  </a>
+</div>
 
 
 
