@@ -8,9 +8,10 @@
 
 <b>Instalação de dependências<b>
 
-<b>| Python3 é obrigatório! |<b>
+
 
 - Arch ( pacman )
+<b>| Python3 é obrigatório! |<b>
 
 Instala pacotes do sistema
 ```bash
