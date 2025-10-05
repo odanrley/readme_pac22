@@ -6,7 +6,7 @@
 
 # 🤖 Browser New User
 
-Primeira tela ao abrir o app:
+<p><b>Primeira tela ao abrir o app:</b></p>
 
 <div align="center"><img src="./register.png" alt="Pacman Register"></div>
 
