@@ -146,3 +146,4 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101
 <div align="center">
 Made with ❤️ in Brasil [< >]
  </div>
+<sub>Esta é uma informação menor no final do README</sub>
