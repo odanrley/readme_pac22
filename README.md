@@ -92,6 +92,10 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 <div align="center"><img src="./browser.jpg" alt="Pacman browserr"></div>
 
+## User Agent:
+
+<div><img src="./useragent.png" alt="Pacman browserr"></div>
+
 ```bash
 #  We ship every day - use the latest version!
 uv pip install browser-use
