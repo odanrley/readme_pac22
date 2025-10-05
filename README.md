@@ -79,7 +79,7 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 <br>
 
-# 🤖 Novo usuário:
+## 🤖 Novo usuário:
 
 - <b>Telas de Registro:</b>
 <div align="center"><img src="./register.png" alt="Pacman Register"></div>
