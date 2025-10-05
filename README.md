@@ -125,64 +125,9 @@ Line 20:
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101 (KHTML, like Gecko) Firefox/131.0 Windows 10"
 ```
 
-Download chromium using playwright's shortcut:
+## Suporte a Plataformas Protegidas
 
-```bash
-uvx playwright install chromium --with-deps --no-shell
-```
-
-Create a `.env` file and add your API key. Don't have one? Start with a [free Gemini key](https://aistudio.google.com/app/u/1/apikey?pli=1).
-
-```bash
-GEMINI_API_KEY=
-```
-
-Run your first agent:
-
-```python
-from browser_use import Agent, ChatGoogle
-from dotenv import load_dotenv
-load_dotenv()
-
-agent = Agent(
-    task="Find the number of stars of the browser-use repo",
-    llm=ChatGoogle(model="gemini-flash-latest"),
-    # browser=Browser(use_cloud=True),  # Uses Browser-Use cloud for the browser
-)
-agent.run_sync()
-```
-
-Check out the [library docs](https://docs.browser-use.com) and [cloud docs](https://docs.cloud.browser-use.com) for more settings.
-
-
-## Stealth Browser Infrastructure
-
-Want to bypass Cloudflare, or any other anti-bot protection?
-
-Simply go to [Browser Use Cloud](https://docs.cloud.browser-use.com) grab a `BROWSER_USE_API_KEY` and use the `use_cloud` parameter.
-
-```python
-from browser_use import Agent, Browser, ChatOpenAI
-
-# Use Browser-Use cloud browser service
-browser = Browser(
-    use_cloud=True,  # Automatically provisions a cloud browser
-)
-
-agent = Agent(
-    task="Your task here",
-    llm=ChatOpenAI(model='gpt-4.1-mini'),
-    browser=browser,
-)
-```
-
-
-
-# Demos
-
-[Task](https://github.com/browser-use/browser-use/blob/main/examples/use-cases/shopping.py): Add grocery items to cart, and checkout.
-
-[![AI Did My Groceries](https://github.com/user-attachments/assets/a0ffd23d-9a11-4368-8893-b092703abc14)](https://www.youtube.com/watch?v=L2Ya9PYNns8)
+Suporte a plataformas protegidas: Sites como `Netflix, Spotify, Disney+` e outros que exigem `autenticação` ou `DRM` ainda não são totalmente suportados, pois o projeto é novo. Essas funcionalidades serão implementadas nas próximas atualizações.
 
 <br/><br/>
 
