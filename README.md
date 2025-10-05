@@ -6,7 +6,32 @@
 
 # 🤖 Browser New User
 
-<div align="center"><p><b>Telas de início ao abrir o app:</b></p></div>
+<b>Instalação de dependências<b>
+
+<b>| Python3 é obrigatório! |<b>
+
+- Arch ( pacman )
+
+Instala pacotes do sistema
+```bash
+sudo pacman -S python-pip python-pillow stem qt6-base qt6-webengine
+```
+
+Cria e ativa virtualenv
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+Instala dependências Python
+```bash
+pip install PySide6 tldextract
+```
+
+Roda o browser
+```bash
+python3 app.py
+```
 
 <div align="center"><img src="./register.png" alt="Pacman Register"></div>
 
