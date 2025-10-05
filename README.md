@@ -88,7 +88,7 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 ## Browser:
 
-<div align="center"><img src="./pacmanapp.png" alt="Pacman browserr"></div>
+<div align="center"><img src="./browser.jpg" alt="Pacman browserr"></div>
 
 ```bash
 #  We ship every day - use the latest version!
