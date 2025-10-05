@@ -2,7 +2,7 @@
   <img src="./pac22.png" width="213" height="213" alt="Pacman App">
 </div>
 
-<h1 align="center">Pac22 Browser</h1>
+<h1 align="center">Pac22 Browser ( Open Source )</h1>
 
 # Baseado em ( PySide6 + Qt Engine )
 
