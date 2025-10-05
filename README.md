@@ -134,9 +134,9 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101
 
 <div align="center">
   
-**Tell your computer what to do, and it gets it done.**
+**Diga ao seu computador o que fazer e ele fará isso.**
 
-<img src="https://github.com/user-attachments/assets/06fa3078-8461-4560-b434-445510c1766f" width="400"/>
+<img src="[https://github.com/user-attachments/assets/06fa3078-8461-4560-b434-445510c1766f](https://www.hardware.com.br/wp-content/uploads/2025/05/chrome.jpg)" width="400"/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Magnus?style=social)](https://x.com/intent/user?screen_name=mamagnus00)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Gregor?style=social)](https://x.com/intent/user?screen_name=gregpr07)
