@@ -100,9 +100,11 @@ Melhorias futuras podem incluir suporte a drivers nativos para otimizar desempen
 
 <div align="justify">
 
-I started programming at the age of 15, creating projects for fun on FiveM servers. At 19, `I served in the Army in the IT field`, which helped me gain discipline and practical experience. The following year, I enrolled in `Software Engineering at the North University of Paraná (UNOPAR)`, fully diving into the world of programming.
+O `User Agent (UA)` é uma informação que seu navegador envia para o site, dizendo basicamente qual navegador você está usando, qual versão, e qual `sistema operacional (OS)` você possui.
+Ele ajuda o site a adaptar o conteúdo para o seu navegador ou dispositivo, como mostrar uma versão mobile ou ativar funcionalidades específicas.
 
-Today, my focus is on `Back-End Development`, where I get to work with logic, structure, and performance — things I truly enjoy. In my free time, `I like exploring cybersecurity` and participating in `bug bounties`, always looking to learn and challenge myself.
+`Importante:` isso não engana o site de verdade. O sistema operacional real do seu computador `ainda será detectado` pelos sites que precisarem dessa informação para rodar funções críticas.
+Ou seja, o `User Agent` muda apenas a `superfície`, mas não altera o funcionamento interno do seu `OS`.
 
 </div>
 
