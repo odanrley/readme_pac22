@@ -146,3 +146,11 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:131.0) Gecko/20100101
 <div align="center">
 Made with ❤️ in Zurich and San Francisco
  </div>
+
+ ### Lightpanda is built for performance
+
+If we want both Javascript and performance in a true headless browser, we need to start from scratch. Not another iteration of Chromium, really from a blank page. Crazy right? But that’s what we did:
+
+- Not based on Chromium, Blink or WebKit
+- Low-level system programming language (Zig) with optimisations in mind
+- Opinionated: without graphical rendering
