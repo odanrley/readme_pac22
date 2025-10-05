@@ -10,10 +10,10 @@
 <br>
 <b>| Python3 é obrigatório! |</b>
 </p>
-<p>
-<b>
-- Arch
-</b></p>
+
+
+- <b>Arch
+</b>
 
 Instala pacotes do sistema
 ```bash
